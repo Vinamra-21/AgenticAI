@@ -1,0 +1,7 @@
+I am an engineering student at IIT Mandi with strong experience in full-stack web development, machine learning, and applied systems engineering. My work spans building scalable web platforms using React, Django, Next.js, Firebase, and crafting visually polished, user-centric interfaces with modern design tools like Three.js, Framer Motion, and Tailwind CSS.
+
+I have led and contributed to multiple high-impact technical projects, including a NASA Space Apps Hackathon–winning solution, official websites for several IIT Mandi bodies, and research-oriented systems such as a Deepfake Video Detection pipeline, an Artificial Lung Simulator, and data-driven climate and mapping applications. My interests lie at the intersection of software engineering, machine learning, and real-world problem solving.
+
+Beyond technical work, I have taken up leadership and responsibility roles, serving as Finance Head, Sponsorship Head, Coordinator, and Mentor across major college events and student bodies. These roles have strengthened my skills in team management, strategic planning, communication, and execution under constraints.
+
+Driven, detail-oriented, and design-focused, I enjoy building systems that are not only technically sound but also impactful, scalable, and intuitive. I am continuously exploring opportunities in software engineering, real-time systems, and applied AI, with a long-term vision of creating meaningful products and ventures.
