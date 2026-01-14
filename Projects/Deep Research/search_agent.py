@@ -59,7 +59,7 @@ def serper_search(query: str) -> str:
     Returns:
         Formatted string with search results
     """
-    api_key = os.getenv("SERPER_API_KEY", "fe7c6badc6464e3faf851f839a577461b643faf8")
+    api_key = os.getenv("SERPER_API_KEY")
     
     url = "https://google.serper.dev/search"
     payload = {
